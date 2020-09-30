@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PokemonAppLiveCoding</string>
+    <string name="bulbausaur">BulBausaur</string>
+    <string name="charmander">Charmander</string>
+    <string name="squirtle">Squirtle</string>
+    <string name="selectPokemon">Choose me !</string>
+</resources>
